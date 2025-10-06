@@ -1,0 +1,19 @@
+{
+    "token": "",
+    "clientId": "",
+    "prefix": "?",
+    "dev": ["841392888512118796"],
+    "owners": ["841392888512118796"],
+    "error": "",
+    "cmd": "",
+    "join": "",
+    "leave": "",
+    "nplogs": "",
+    "bllogs": "",
+    "gbanlogs": "",
+    "embedColor": "#2f3136",
+    "supportServer": "https://discord.gg/qyf4xyxHWv",
+    "supportServerId": "",
+    "botInvite": "",
+    "MONGO_DB": ""
+}
