@@ -86,6 +86,6 @@ git push
 
 ---
 
-## 🔥 RESYSTANCE BOT
+## 🔥 [RESYSTANCE BOT](https://top.gg//bot/1409185387921932399)
 
-[![Discord Bots](https://top.gg/api/widget/1409185387921932399.svg)(https://top.gg//bot/1409185387921932399)
+[![Discord Bots](https://top.gg/api/widget/1409185387921932399.svg)
