@@ -83,3 +83,9 @@ git push
 
 ## 👤 WANNA REACH OUT TO ME?
 - Discord Username: **[flame._69](https://discord.com/users/841392888512118796)**
+
+---
+
+## 🔥 RESYSTANCE BOT
+
+[![Discord Bots](https://top.gg/api/widget/1409185387921932399.svg)(https://top.gg//bot/1409185387921932399)
