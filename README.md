@@ -88,4 +88,6 @@ git push
 
 ## 🔥 [RESYSTANCE BOT](https://top.gg//bot/1409185387921932399)
 
-https://top.gg/api/widget/1409185387921932399.svg
+<a href="https://top.gg/bot/1409185387921932399">
+  <img src="https://top.gg/api/widget/1409185387921932399.svg">
+</a>
