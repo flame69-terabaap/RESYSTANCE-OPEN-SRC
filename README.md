@@ -82,7 +82,7 @@ git push
 ---
 
 ## 👤 WANNA REACH OUT TO ME?
-- Discord Username: **[flame._69](https://discord.com/users/841392888512118796)**
+- Discord Username: **[flame._69](https://discord.com/users/1363734785616515164)**
 
 ---
 
